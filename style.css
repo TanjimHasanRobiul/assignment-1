@@ -12,7 +12,7 @@ body {
 
 .blog-1 {
     text-align: center;
-    color: hsla(27, 81%, 49%, 0.993);
+
 
 }
 
@@ -67,4 +67,35 @@ hr {
     width: 80%;
     background-color: chartreuse;
     margin-bottom: 30px;
+}
+
+.donaate-plan {
+    text-align: center;
+
+}
+
+.plan {
+    display: flex;
+    justify-content: space-around;
+}
+
+.food {
+    padding: 70px 30px;
+    border-radius: 10px;
+    background-color: #7fffd4c8;
+    margin: 8px;
+}
+
+.Shelter {
+    padding: 70px 30px;
+    border-radius: 10px;
+    background-color: hsla(0, 88%, 77%, 0.587);
+    margin: 8px;
+}
+
+.Education {
+    padding: 70px 30px;
+    border-radius: 10px;
+    background-color: #f5f5dcda;
+    margin: 8px;
 }
