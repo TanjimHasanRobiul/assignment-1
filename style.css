@@ -1,4 +1,70 @@
 body {
     font-family: 'PT Serif', serif;
     font-family: 'Roboto Slab', serif;
+    margin: 0;
+}
+
+.head-line {
+    font-size: 60px;
+    text-align: center;
+    color: #2c3cb5eb;
+}
+
+.blog-1 {
+    text-align: center;
+    color: hsla(27, 81%, 49%, 0.993);
+
+}
+
+.button {
+    padding: 10px 40px;
+    color: mintcream;
+    font-weight: bold;
+    background-color: greenyellow;
+    border: 2px solid greenyellow;
+    border-radius: 5px;
+    margin-left: 40%;
+    margin-bottom: 10%;
+}
+
+.top-banner {
+    background-image: url(images/banner.jpg);
+    background-repeat: no-repeat;
+
+}
+
+.donet-head {
+    text-align: center;
+}
+
+.donet-value {
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#three {
+    border: 2px solid red;
+    color: red;
+}
+
+.tk {
+    margin-top: 20px;
+    padding: 70px 80px;
+    background-color: rgba(128, 128, 128, 0.089);
+    border-radius: 5px;
+    font-size: 20px;
+    margin-bottom: 20px;
+
+}
+
+h6 {
+    margin-top: 40px;
+    text-align: center;
+}
+
+hr {
+    width: 80%;
+    background-color: chartreuse;
+    margin-bottom: 30px;
 }
