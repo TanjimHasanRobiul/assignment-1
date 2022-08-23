@@ -125,3 +125,31 @@ hr {
 .half-width img {
     width: 90%;
 }
+
+.update {
+    text-align: center;
+}
+
+.search-box {
+    text-align: center;
+    height: 160px;
+    width: 30%;
+    margin-top: 60px;
+    margin-left: 40%;
+    margin-bottom: 90px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+}
+
+#email {
+    justify-content: center;
+    margin-top: 50px;
+    padding: 10px 20px;
+}
+
+#submit {
+    padding: 10px;
+    background-color: red;
+    font-weight: 700;
+    border-radius: 2px;
+}
